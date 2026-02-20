@@ -20,7 +20,6 @@ The application was developed to run on a local server and is therefore presente
 </p>
 
 <br><br>
----
 
 <p align="center">
   <img src="images/image2.png" width="700">
