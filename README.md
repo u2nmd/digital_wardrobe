@@ -21,7 +21,7 @@ The application was developed to run on a local server and is therefore presente
   <img src="images/image2.png" width="700">
 </p>
 
-**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details. <br></br>
+<br>**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.</br>
 
 <p align="center">
   <img src="images/image3.png" width="700">
