@@ -21,7 +21,7 @@ The application was developed to run on a local server and is therefore presente
   <img src="images/image2.png" width="700">
 </p>
 
-<br>**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.</br>
+**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.
 
 <p align="center">
   <img src="images/image3.png" width="700">
@@ -45,9 +45,21 @@ Overall, the design of Digital Wardrobe prioritizes intuitive interaction and us
 
 ## 📸 Additional Screens  
 
+<p align="center">
+  <img src="images/image4.png" width="700">
+</p>
+
 **Image 4:** Dropdown menu for clothing search filters by clicking on the *"Search Filters"* button.  
 
+<p align="center">
+  <img src="images/image5.png" width="700">
+</p>
+
 **Image 5:** Occasion creation form with fill-in fields, outfit search filters, and a marked selected outfit.  
+
+<p align="center">
+  <img src="images/image6.png" width="700">
+</p>
 
 **Image 6:** How travel lists are displayed. In the middle one, clicking on the clothing item named *"Nike Jordan 1 Khakhi"* displays its image.  
 
