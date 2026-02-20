@@ -12,10 +12,14 @@ The application was developed to run on a local server and is therefore presente
 ## 📸 Application Preview  
 
 <p align="center">
-  <img src="images/image1.png" width="700">
+  <img src="images/image1.png" width="800">
 </p>
 
-**Image 1:** The view of a logged-in user from the home page of *Digital Wardrobe*. <br>
+<p align="center">
+  <em>Image 1: The view of a logged-in user from the home page of Digital Wardrobe.</em>
+</p>
+
+<br><br>
 
 <p align="center">
   <img src="images/image2.png" width="700">
