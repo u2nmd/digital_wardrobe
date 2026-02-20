@@ -11,7 +11,7 @@ The application was developed to run on a local server and is therefore presente
 
 ## 📸 Application Preview  
 
-![The view of a logged-in user from the home page of *Digital Wardrobe*.](images/image1.png)
+![The view of a logged-in user from the home page of *Digital Wardrobe*.](images/image1.png) **Image 1:** The view of a logged-in user from the home page of *Digital Wardrobe*.
 
 **Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.  
 
