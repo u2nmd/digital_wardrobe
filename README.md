@@ -39,6 +39,8 @@ The application was developed to run on a local server and is therefore presente
   <em>Image 3: How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.</em>
 </p>
 
+<br><br>
+
 ---
 
 ## 🎨 Design & Interaction  
@@ -59,19 +61,31 @@ Overall, the design of Digital Wardrobe prioritizes intuitive interaction and us
   <img src="images/image4.png" width="700">
 </p>
 
-**Image 4:** Dropdown menu for clothing search filters by clicking on the *"Search Filters"* button.  
+<p align="center">
+  <em>Image 4: Dropdown menu for clothing search filters by clicking on the *"Search Filters"* button.</em>
+</p>
+
+<br><br>  
 
 <p align="center">
   <img src="images/image5.png" width="700">
 </p>
 
-**Image 5:** Occasion creation form with fill-in fields, outfit search filters, and a marked selected outfit.  
+<p align="center">
+  <em>Image 5: Occasion creation form with fill-in fields, outfit search filters, and a marked selected outfit.</em>
+</p>
+
+<br><br>  
 
 <p align="center">
   <img src="images/image6.png" width="700">
 </p>
 
-**Image 6:** How travel lists are displayed. In the middle one, clicking on the clothing item named *"Nike Jordan 1 Khakhi"* displays its image.  
+<p align="center">
+  <em>Image 6: How travel lists are displayed. In the middle one, clicking on the clothing item named *"Nike Jordan 1 Khakhi"* displays its image.</em>
+</p>
+
+<br><br>  
 
 ---
 
