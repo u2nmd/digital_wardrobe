@@ -19,19 +19,25 @@ The application was developed to run on a local server and is therefore presente
   <em>Image 1: The view of a logged-in user from the home page of Digital Wardrobe.</em>
 </p>
 
-<div style="margin-bottom: 60px;"></div>
+<br><br>
 
 <p align="center">
   <img src="images/image2.png" width="700">
 </p>
 
-**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.
+<p align="center">
+  <em>Image 2: How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.</em>
+</p>
+
+<br><br>
 
 <p align="center">
   <img src="images/image3.png" width="700">
 </p>
 
-**Image 3:** How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.
+<p align="center">
+  <em>Image 3: How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.</em>
+</p>
 
 ---
 
