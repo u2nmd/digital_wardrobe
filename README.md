@@ -13,9 +13,9 @@ The application was developed to run on a local server and is therefore presente
 
 ![The view of a logged-in user from the home page of *Digital Wardrobe*.](images/image1.png) **Image 1:** The view of a logged-in user from the home page of *Digital Wardrobe*.
 
-**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.  
+![Uploaded Clothes View](images/image2.png) **Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.  
 
-**Image 3:** How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.  
+![Outfits Display](images/image3.png) **Image 3:** How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.  
 
 ---
 
