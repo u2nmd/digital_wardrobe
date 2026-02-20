@@ -15,19 +15,19 @@ The application was developed to run on a local server and is therefore presente
   <img src="images/image1.png" width="700">
 </p>
 
-**Image 1:** The view of a logged-in user from the home page of *Digital Wardrobe*.
+**Image 1:** The view of a logged-in user from the home page of *Digital Wardrobe*. <br>
 
 <p align="center">
   <img src="images/image2.png" width="700">
 </p>
 
-**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details.  
+**Image 2:** How uploaded clothes appear on the profile. Clicking on the image of the cloth displays more details. <br>
 
 <p align="center">
   <img src="images/image3.png" width="700">
 </p>
 
-**Image 3:** How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.  
+**Image 3:** How created outfits are displayed. In the middle outfit, after clicking on the title *"Red Beannie with tag"*, the image of the specific included cloth appears.
 
 ---
 
