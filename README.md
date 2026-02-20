@@ -19,7 +19,7 @@ The application was developed to run on a local server and is therefore presente
   <em>Image 1: The view of a logged-in user from the home page of Digital Wardrobe.</em>
 </p>
 
-<br><br>
+<div style="margin-bottom: 60px;"></div>
 
 <p align="center">
   <img src="images/image2.png" width="700">
